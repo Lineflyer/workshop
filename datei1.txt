@@ -2,6 +2,6 @@ Hallo Welt!
 Dies ist eine Ergänzung.
 Mein neues Feature 1 programmiere ich hierhin.
 Test1
-Test2
+Feature 2 
 Test3
 Test4
