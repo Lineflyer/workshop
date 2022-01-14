@@ -1,5 +1,5 @@
 Hallo Welt!
-Dies ist eine Ergänzung.
+Dies ist eine Ergänzung. Hier habe ich noch einen Tippfehler beseitigt!!
 Mein neues Feature 1 programmiere ich hierhin.
 Test1
 Test2
